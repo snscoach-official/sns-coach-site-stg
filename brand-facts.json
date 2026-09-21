@@ -1,0 +1,42 @@
+{
+  "name": "株式会社SNSコーチ",
+  "url": "https://snscoach-official.github.io/sns-coach-site-stg/",
+  "organization": {
+    "name": "株式会社SNSコーチ",
+    "founded": "2020-07-01",
+    "ceo": "髙橋 恭介",
+    "postalCode": "102-0082",
+    "address": [
+      "東京都千代田区一番町6番地",
+      "相模屋本社ビル7F"
+    ],
+    "sameAs": []
+  },
+  "services": [
+    {
+      "name": "全社Xグロース（ClaudeCode × X）",
+      "url": "https://snscoach-official.github.io/sns-coach-site-stg/service/x-growth/",
+      "summary": "全社の情報を活かし、採用・営業につながる発信を継続します。"
+    },
+    {
+      "name": "X運用コーチング",
+      "url": "https://snscoach-official.github.io/sns-coach-site-stg/service/coaching/",
+      "summary": "戦略設計から日々の運用まで、自社で発信する力を育てます。"
+    },
+    {
+      "name": "ズバセルクラウド",
+      "url": "https://snscoach-official.github.io/sns-coach-site-stg/service/zubasellcloud/",
+      "summary": "Xの発信を継続するための自社クラウドサービスです。"
+    },
+    {
+      "name": "eラーニング講座",
+      "url": "https://snscoach-official.github.io/sns-coach-site-stg/service/e-learning/",
+      "summary": "AIとXを活用した発信スキルを学びます。"
+    },
+    {
+      "name": "オプションサービス",
+      "url": "https://snscoach-official.github.io/sns-coach-site-stg/service/option/",
+      "summary": "動画・Web制作・広告・キャンペーンで発信を支えます。"
+    }
+  ]
+}

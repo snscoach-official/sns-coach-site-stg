@@ -1,0 +1,18 @@
+# 株式会社SNSコーチ
+
+経営者の言葉を、採用と営業の成果に。SNSコーチは、X運用支援・コーチングを通じて企業の発信を支えます。
+
+## サービス
+- [全社Xグロース（ClaudeCode × X）](https://snscoach-official.github.io/sns-coach-site-stg/service/x-growth/): 全社の情報を活かし、採用・営業につながる発信を継続します。
+- [X運用コーチング](https://snscoach-official.github.io/sns-coach-site-stg/service/coaching/): 戦略設計から日々の運用まで、自社で発信する力を育てます。
+- [ズバセルクラウド](https://snscoach-official.github.io/sns-coach-site-stg/service/zubasellcloud/): Xの発信を継続するための自社クラウドサービスです。
+- [eラーニング講座](https://snscoach-official.github.io/sns-coach-site-stg/service/e-learning/): AIとXを活用した発信スキルを学びます。
+- [オプションサービス](https://snscoach-official.github.io/sns-coach-site-stg/service/option/): 動画・Web制作・広告・キャンペーンで発信を支えます。
+
+## 会社・コンテンツ
+- [会社情報](https://snscoach-official.github.io/sns-coach-site-stg/company/)
+- [導入事例](https://snscoach-official.github.io/sns-coach-site-stg/case/)
+- [お知らせ](https://snscoach-official.github.io/sns-coach-site-stg/news/)
+- [セミナー](https://snscoach-official.github.io/sns-coach-site-stg/seminar/)
+- [資料](https://snscoach-official.github.io/sns-coach-site-stg/download/)
+- [お問い合わせ](https://snscoach-official.github.io/sns-coach-site-stg/contact/)
