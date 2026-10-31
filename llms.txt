@@ -11,8 +11,6 @@
 
 ## 会社・コンテンツ
 - [会社情報](https://snscoach-official.github.io/sns-coach-site-stg/company/)
-- [導入事例](https://snscoach-official.github.io/sns-coach-site-stg/case/)
 - [お知らせ](https://snscoach-official.github.io/sns-coach-site-stg/news/)
-- [セミナー](https://snscoach-official.github.io/sns-coach-site-stg/seminar/)
 - [資料](https://snscoach-official.github.io/sns-coach-site-stg/download/)
 - [お問い合わせ](https://snscoach-official.github.io/sns-coach-site-stg/contact/)
