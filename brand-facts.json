@@ -14,11 +14,6 @@
   },
   "services": [
     {
-      "name": "全社Xグロース（ClaudeCode × X）",
-      "url": "https://snscoach-official.github.io/sns-coach-site-stg/service/x-growth/",
-      "summary": "全社の情報を活かし、採用・営業につながる発信を継続します。"
-    },
-    {
       "name": "X運用コーチング",
       "url": "https://snscoach-official.github.io/sns-coach-site-stg/service/coaching/",
       "summary": "戦略設計から日々の運用まで、自社で発信する力を育てます。"
